@@ -3,7 +3,7 @@
 ## RRSS
 - DISCORD > https://discord.gg/CxsNnMws
 - LINKEDIN > https://linkedin.com/company/geomecanicauv
-- INSTAGRAM > @geomecanicauv/
+- INSTAGRAM > @geomecanicauv
 
 ## Links
 https://civil.uv.cl/
