@@ -1,4 +1,5 @@
-# Bienvenidos al grupo de Geomecánica de la Escuela de Ingeniería civil de la Universidad de Valparaíso, Chile.
+# Bienvenidos al Grupo de Geomecánica de la 
+# Escuela de Ingeniería civil de la Universidad de Valparaíso, Chile.
 
 ## RRSS
 - DISCORD > https://discord.gg/CxsNnMws
