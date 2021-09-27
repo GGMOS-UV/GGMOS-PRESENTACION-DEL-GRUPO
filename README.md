@@ -1,4 +1,4 @@
-# Bienvenidos al <br/> Grupo de Geomecánica y Obras Subterráneas <br/> Escuela de Ingeniería Civil de la Universidad de Valparaíso, Chile.
+# Bienvenidos al <br/> Grupo de Geomecánica y Obras Subterráneas <br/> Escuela de Ingeniería Civil, Universidad de Valparaíso, Chile.
 
 ## RRSS
 - DISCORD > https://discord.gg/CxsNnMws
